@@ -1,0 +1,9 @@
+name: "OBS Sync"
+description: "Sync files to OBS bucket"
+author: yinjiayi
+runs:
+  using: docker
+  image: Dockerfile
+branding:
+  icon: refresh-cw
+  color: green
